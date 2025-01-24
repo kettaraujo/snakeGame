@@ -17,10 +17,3 @@ This is my first game project: the classic **SnakeGame**, developed using **Java
    - **Right Arrow**: move right
 2. Each time the snake eats a fruit, it grows.
 3. The game ends if the snake hits a wall or itself.
-
-## How to Run the Project
-
-1. Clone this repository or download the files.
-
-   ```bash
-   git clone https://github.com/kettaraujo/snakegame.git
