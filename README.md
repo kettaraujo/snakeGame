@@ -11,9 +11,9 @@ This is my first game project: the classic **SnakeGame**, developed using **Java
 ## How to Play
 
 1. The snake is controlled with the arrow keys:
-   - **Up Arrow**: move up
-   - **Down Arrow**: move down
-   - **Left Arrow**: move left
-   - **Right Arrow**: move right
+   - **Up Arrow**: move up,
+   - **Down Arrow**: move down,
+   - **Left Arrow**: move left,
+   - **Right Arrow**: move right.
 2. Each time the snake eats a fruit, it grows.
 3. The game ends if the snake hits a wall or itself.
